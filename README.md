@@ -117,7 +117,7 @@ Go to http://127.0.0.1:8000/ on your favorite web-browser
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions are welcome! see <a href="CONTRIBUTING">here</a> for more information.
+Contributions are welcome! see <a href="CONTRIBUTING.md">here</a> for more information.
 
 <!-- SUPPORT -->
 
