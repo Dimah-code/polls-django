@@ -1,0 +1,11 @@
+li a {
+    color: yellow;
+    align: center;
+}
+
+body{
+    background-color: darkblue;
+    color: white;
+    background: white url("images/background.png") no-repeat;
+    align: center;
+}
