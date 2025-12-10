@@ -55,7 +55,7 @@ Django polls website implementing models, views, templates, forms, and authentic
  Django 6.0+
 ```
 
-### Setup & Install
+### Setup & Install <a id="setup"></a>
 
 Follow these steps to run project locally.
 
