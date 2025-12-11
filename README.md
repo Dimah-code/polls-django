@@ -1,4 +1,4 @@
-# Polls Website
+# Polls Website - Pollify
 
 ### A full-featured polling application built with Django that allows users to create, vote on, and view poll results with real-time visualizations. 
 # 📗 Table of Contents
@@ -64,8 +64,8 @@ Clone this repository to your desired folder:
 
 ```sh
   # 1. Clone
-  git clone https://github.com/Dimah-code/polls-django.git
-  cd polls-django
+  git clone https://github.com/Dimah-code/pollify.git
+  cd pollify
   # 2. create a virtual environment
   python -m venv venv
 
