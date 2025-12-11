@@ -23,7 +23,7 @@
 Django polls website implementing models, views, templates, forms, and authentication for voting and adding questions
 
 ## 💻 Demo <a id="demo"></a>
-![Demo](demo/demo_website.mp4)
+![Demo](demo/demo.gif)
 
 
 ## 🛠 Built With <a id="built-with"></a>
