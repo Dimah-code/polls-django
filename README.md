@@ -4,6 +4,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+  - [💻 Demo](#demo)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -19,7 +20,11 @@
 
 # 📖 Django Polls Website <a id="about-project"></a>
 
-Django polls website implementing models, views, templates, forms, and authentication for voting and adding questions 
+Django polls website implementing models, views, templates, forms, and authentication for voting and adding questions
+
+## 💻 Demo <a id="demo"></a>
+![Project Demo](/demo/demo_website.mp4)
+
 
 ## 🛠 Built With <a id="built-with"></a>
 
